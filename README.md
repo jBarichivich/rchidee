@@ -50,5 +50,6 @@ RCHIDEE function library is a collection of R functions to easily extract, plot 
   * v1p3: 8 dec 2024, added functions to read tree-ring width from new 4dim stomate output file in ORCHIDEE4
     
  @   by Jonathan Barichivich (jonathan.barichivich@lsce.ips.fr), LSCE.
+ 
  @   February 2015, revised and published 9 Dec 2024, Paris
 
